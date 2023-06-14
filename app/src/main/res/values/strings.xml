@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="first_value">Digite um valor:</string>
+    <string name="second_value">Digite outro valor:</string>
+    <string name="result">Resultado:</string>
+    <string name="sum">Soma</string>
+    <string name="subtraction">Subtração</string>
+    <string name="division">Divisão</string>
+    <string name="multiplication">Multiplicação</string>
+</resources>
